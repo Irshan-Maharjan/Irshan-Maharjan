@@ -1,4 +1,4 @@
-Hi, I’m Irshan 👋  
+# Hi, I’m Irshan 👋  
 I’m a Computer Science graduate and an aspiring engineer.  
 Currently diving deep into Machine Learning, AI, and building cool projects to sharpen my skills.  
 I love learning by doing, and I’m passionate about creating tech that makes life better.  
